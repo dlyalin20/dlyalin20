@@ -14,7 +14,10 @@
   Anyways, if you're interested in getting in touch and collaborating, hit me up at my email: dlyalin20@stuy.edu.
 </p>
 
-![](https://img.shields.io/badge/OS-Darwin-success)
+![](https://img.shields.io/badge/OS-Darwin-success) ![](https://img.shields.io/badge/OS-Linux-success) ![](https://img.shields.io/badge/Editor-VSCode-success)
+![](https://img.shields.io/badge/Shell-Bash-success) ![](https://img.shields.io/badge/Code-Python-success) ![](https://img.shields.io/badge/Code-C-success)
+![](https://img.shields.io/badge/Code-Java-success) ![](https://img.shields.io/badge/Code-Make-success) ![](https://img.shields.io/badge/Tools-SQL-success) 
+![](https://img.shields.io/badge/Tools-TensorFlow-success) ![](https://img.shields.io/badge/Tools-Django-success)![](https://img.shields.io/badge/Tools-Git-success)
 
 <h2> Currently Spinning: </h2>
 
